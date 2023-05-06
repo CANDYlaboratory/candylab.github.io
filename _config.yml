@@ -1,6 +1,7 @@
 site: CANDY Lab
 
-url: www.jechenlab.com
+domain: www.jechenlab.com
+url: https://www.jechenlab.com
 baseurl: 
 
 collections:
