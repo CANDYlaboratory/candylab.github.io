@@ -306,7 +306,7 @@ Chen JE, Lewis LD, Chang C, Tian Q, Fultz NE, Ohringer NA, Rosen BR, Polimeni JR
     </span>
     <span class="title">Mapping stimulus-driven hemodynamic changes in white matter using 7T high-resolution fMRI. </span>
     <span class="periodical">
-      <em>ISMRM</em>
+      <em>ISMRM 2023</em>
     </span>
 
 </div>
@@ -322,7 +322,7 @@ Chen JE, Lewis LD, Chang C, Tian Q, Fultz NE, Ohringer NA, Rosen BR, Polimeni JR
     </span>
     <span class="title">Mapping stimulus-driven hemodynamic changes in white matterusing 7T high-resolution fMRI. </span>
     <span class="periodical">
-      <em>OHBM</em>
+      <em>OHBM 2023</em>
     </span>
 </div>
 </li>
@@ -336,7 +336,23 @@ Chen JE, Lewis LD, Chang C, Tian Q, Fultz NE, Ohringer NA, Rosen BR, Polimeni JR
     </span>
     <span class="title">Characterizing fMRI signatures of systemic physiology in healthy aging. </span>
     <span class="periodical">
-      <em>OHBM</em>
+      <em>OHBM 2023</em>
+    </span>
+</div>
+</li>
+    
+    
+       
+     <li> 
+<div id="">
+    <span class="author">Coursey S, Hartung GA, Polimeni JR, Chen JE.
+    </span>
+    <span class="year">
+     (2023)
+    </span>
+    <span class="title"> Bias of Metabolic (De)activations Introduced by Polynomial Detrending of fPET-FDG Data. </span>
+    <span class="periodical">
+      <em>OHBM 2023</em>
     </span>
 </div>
 </li>
