@@ -12,6 +12,13 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1>
 
+<u>May 2023</u><br>
+
+🥳 Dakota graduated from NYU. Congrats! She will join the lab as a research technician II this summer. 
+
+🦒🦒Shirley will join the lab as a lab manager/research assistant this summer! She is finishing her undergraduate degree at UCSD. 
+
+🦒🦒Zihad will join the lab as a research assistant this summer! He is undergraduate student at Northeastern University, majoring in bioengineering and biochemistry.  <br>
 
 <strong>April 2023</strong><br>
 
