@@ -32,7 +32,7 @@ layout: simple
 	<img src="/images/Dakota.png" >
 <div class='text'> 
 	<h3>Jiawen Fan</h3>
-	<h6><em>Senior Research Technician</em></h6>
+	<h6><em>Research Technician II</em></h6>
     <p1>Dakota is a master student studying data science at NYU Courant and obtained her B.S. in Neuroscience from NYU. Her research interest underlies in deploying machine learning and statistical knowledge to study various brain functions, and deciphering 1. the physiological networks in aging population and 2. white matter tracts activation under high-field fMRI. During her spare time, Dakota enjoys traveling, surfing, bouldering, photograghy, and visual arts. <br> 
     	🖇  <a href = "https://dakotafan.github.io/Portfolio/">Personal Website</a>
     </p1> 
@@ -45,7 +45,7 @@ layout: simple
 	<img src="/images/Sean.png" >
 	<div class='text'> 
 	<h3>Sean Coursey</h3>
-	<h6><em>Research Assistant</em></h6>
+	<h6><em>Undergraduate Research Assistant</em></h6>
     <p1>Sean is a research assistant for Jingyuan with his research focusing on developing and validating analysis methods for fPET-FDG. As an undergraduate student at Northeastern University, he is working towards a Bachelors in Mathematics and Physics with a minor in Behavioral Neuroscience. In his free time, Sean helps run Northeastern’s Buddhist Group, Clay Cave (a pottery club), and Ballroom Dance Club.<br> 
   🖇  <a href = "https://www.seancoursey.com/">Personal Website</a>
     &nbsp;&nbsp;&nbsp;
@@ -58,7 +58,7 @@ layout: simple
 	<img src="/images/Penghui.png" >
 <div class='text'> 
 	<h3>Penghui Du</h3>
-	<h6><em>Undergraduate Research Assistant</em></h6>
+	<h6><em>Visiting Undergraduate Research Assistant</em></h6>
     <p1>Penghui will join the team as an undergraduate research assistant for the 2023 Fall semester. He is currently pursuing his Bachelor's degree at the Southern University of Science and Technology, with a major in Intelligent Medical Engineering. Penghui is particularly interested in computational and cognitive neuroscience, machine learning, and bioimaging techniques such as fMRI and PET. Besides his studies, he also enjoys listening to all kinds of music, long distance jogging, and cooking.<br> 
     📖  <a href = "https://scholar.google.com/citations?hl=zh-CN&user=RMFYKDYAAAAJ&view_op=list_works&gmla=ABEO0YpFxJq8w-fxYbaoNpDQh90oNAkj7t9EYk-ip4E_TzYhk62QxTuIRPomkLY1YLSSnY9Bbfts6MivJ5oLLy2vx5ZefZdSpexTZVX5ibI">Google Scholar</a>
     &nbsp;&nbsp;&nbsp;
