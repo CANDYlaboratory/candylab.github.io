@@ -341,9 +341,7 @@ Chen JE, Lewis LD, Chang C, Tian Q, Fultz NE, Ohringer NA, Rosen BR, Polimeni JR
 </div>
 </li>
     
-    
-       
-     <li> 
+ <li> 
 <div id="">
     <span class="author">Coursey S, Hartung GA, Polimeni JR, Chen JE.
     </span>
@@ -357,6 +355,6 @@ Chen JE, Lewis LD, Chang C, Tian Q, Fultz NE, Ohringer NA, Rosen BR, Polimeni JR
 </div>
 </li>
 
-
+</ol>
  
 
