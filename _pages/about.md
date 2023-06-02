@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default_new
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/demo/Logo.png
 ---
 The <strong>C</strong>omputational and <strong>A</strong>dvanced <strong>N</strong>euroimaging of brain <strong>DY</strong>namics (<strong>CANDY</strong>) Lab is directed by [Dr. Jingyuan Chen](https://www.nmr.mgh.harvard.edu/user/4258043), and affiliated with the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/) at Massachusetts General Hospital and Harvard Medical School.
 
