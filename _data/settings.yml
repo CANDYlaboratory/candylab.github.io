@@ -1,6 +1,5 @@
 basic_settings:
   site_title: CANDY Lab
-  site_tagline:
   favicon_image: '/images/demo/Logo.png'
 
 header_settings:
