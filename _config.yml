@@ -2,7 +2,7 @@ site: CANDY Lab
 
 domain: www.jechenlab.com
 url: https://www.jechenlab.com
-baseurl: 
+
 
 collections:
   pages:
