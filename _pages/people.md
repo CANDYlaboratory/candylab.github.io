@@ -5,7 +5,7 @@ layout: simple
 
 <div class='logo'>
 	<div class='logo-wrap'>
-	<img src="/images/LabMemberUpdate.png" >
+	<img src="/images/Labupdate0718.png" >
 </div>
 </div>
 
