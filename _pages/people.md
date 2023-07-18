@@ -102,7 +102,7 @@ layout: simple
 <br>
     <p1> Deborah Wanderley dos Santos 
     	(Harvard part-time intern, now Ph.D. student at Northeastern University)<br>
-Priyadharshini Santhanakrishnan(summer student, now Ph.D. student at National University of Singapore)<br>
+Priyadharshini Santhanakrishnan (summer student, now Ph.D. student at National University of Singapore)<br>
 Neo Nyoni (Northeastern part-time intern)<br>
 Jennifer Yeo (Northeastern Co-op student, now master student at Boston University)<br>
 Angel Huang (MIT UROP student, now software developer at Five Rings LLC)<br>
