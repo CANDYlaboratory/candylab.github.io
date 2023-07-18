@@ -46,7 +46,7 @@ layout: simple
 	<h3>Shirley Feng</h3>
 	<h6><em>Research Technician II</em></h6>
     <p1>Shirley is the lab manager and a research assistant in the CANDY lab. She earned her B.S. in Clinical Psychology and Cognitive Behavioral Neuroscience from UCSD. Her research interests are in functional neuroimaging and its application to better understanding internalizing, alcohol or substance use, and neurodegenerative disorders. Outside of work hours, she likes sketching, reading fantasy novels, and petting other people's cats. <br> 
-    📄  <a href= "">CV</a>	
+    [📄]({{site.url}}/assets/UndergradApplicationForm.pdf)
     </p1> 
 </div>
 </section_dakota>
