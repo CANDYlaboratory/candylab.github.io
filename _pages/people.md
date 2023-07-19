@@ -78,8 +78,18 @@ layout: simple
     📄  <a href= "https://penghui-du.com/uploads/resume.pdf">CV</a>
     </p1> 
 </div>
-
 </section_dakota>
+
+
+<section_dakota class='people'>
+	<img src="/images/Zihad.png" >
+<div class='text'> 
+	<h3>Zihad Syed</h3>
+	<h6><em>Undergraduate Research Assistant</em></h6>
+    <p1>Zihad is an undergraduate student at Northeastern University studying bioengineering and biochemistry. Academically he is interested in the physics behind medical imaging, as well as the various clinical applications of neurological research. In his free time, he enjoys cooking, spending time with family and friends, and staying active. </p1> 
+</div>
+</section_dakota>
+
 
 
 <section_dakota class='people'>
