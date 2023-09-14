@@ -18,6 +18,8 @@ menu_settings:
       url: '/teaching'
     - title: 'People'
       url: '/people'
+    - title: 'Gallery'
+      url: '/gallery'
     - title: 'Prospective Members'
       url: '/prospective'
     - title: 'Contact'
