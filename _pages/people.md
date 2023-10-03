@@ -16,7 +16,7 @@ layout: simple
 	<div class='text'> 
 	<h3>Jingyuan Chen</h3>
 	<h6><em>Principle Investigator</em></h6>
-    <p1>Jingyuan is an Instructor and incoming Assistant Professor at the Martinos Center for Biomedical Imaging at Massachusetts General Hospital and Harvard Medical School. She received her Ph.D. from Stanford University with a major in Electrical Engineering and a minor in Statistics. In her spare time, she likes traveling, calligraphy, and drawing cartoons.<br> 
+    <p1>Jingyuan is an Assistant Professor at the Martinos Center for Biomedical Imaging at Massachusetts General Hospital and Harvard Medical School. She received her Ph.D. from Stanford University with a major in Electrical Engineering and a minor in Statistics. In her spare time, she likes traveling, calligraphy, and drawing cartoons.<br> 
     📖  <a href = "https://scholar.google.com/citations?user=x2-XVPUAAAAJ&hl=en&oi=ao">Google Scholar</a>
     &nbsp;&nbsp;&nbsp;
     🖇  <a href = "https://sites.google.com/view/jingyuan-e-chen/about">Personal Website</a>
