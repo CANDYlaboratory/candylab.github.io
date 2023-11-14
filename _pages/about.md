@@ -14,7 +14,11 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <strong>October 2023</strong><br>
 
+🦒🦒 Xiao joined the lab as a visiting undergraduate research assistant! She is a junior undergraduate student at Tsinghua university, majoring in Biomedical Engineering.
+
 🥳 Dakota gave a talk on characterizing fMRI signitures of systemic physiology in healthy aging in Human Connectome Project (HCP)/Adult Aging Brain Connectome (AABC) Data Symposium  
+
+📖 Dakota, Shirley and Penghui attended the Martinos Center laminar fMRI short course!
 
 <strong>July 2023</strong><br>
 
