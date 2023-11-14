@@ -19,7 +19,8 @@ layout: simple
     <p1>Jingyuan is an Assistant Professor at the Martinos Center for Biomedical Imaging at Massachusetts General Hospital and Harvard Medical School. She received her Ph.D. from Stanford University with a major in Electrical Engineering and a minor in Statistics. In her spare time, she likes traveling, calligraphy, and drawing cartoons.<br> 
     📖  <a href = "https://scholar.google.com/citations?user=x2-XVPUAAAAJ&hl=en&oi=ao">Google Scholar</a>
     &nbsp;&nbsp;&nbsp;
-    🖇  <a href = "https://sites.google.com/view/jingyuan-e-chen/about">Personal Website</a>
+    🖇  <a href = "https://sites.google.com/view/jingyuan-e-chen/about">Personal Website</a><br>
+email address: jechen@mgh.harvard.edu
     </p1> 
 
 </div>
@@ -34,7 +35,8 @@ layout: simple
 	<h3>Jiawen Fan</h3>
 	<h6><em>Research Technician II</em></h6>
     <p1>Dakota is a master student studying data science at NYU Courant and obtained her B.S. in Neuroscience from NYU. Her research interest underlies in deploying machine learning and statistical knowledge to study various brain functions, and deciphering 1. the physiological networks in aging population and 2. white matter tracts activation under high-field fMRI. During her spare time, Dakota enjoys traveling, surfing, bouldering, photograghy, and visual arts. <br> 
-    	🖇  <a href = "https://dakotafan.github.io/Portfolio/">Personal Website</a>
+    	🖇  <a href = "https://dakotafan.github.io/Portfolio/">Personal Website</a><br>
+email address: jfan0@mgh.harvard.edu
     </p1> 
 </div>
 </section_dakota>
@@ -46,7 +48,8 @@ layout: simple
 	<h3>Shirley Feng</h3>
 	<h6><em>Research Technician II</em></h6>
     <p1>Shirley is the lab manager and a research assistant in the CANDY lab. She earned her B.S. in Clinical Psychology and Cognitive Behavioral Neuroscience from UCSD. Her research interests are in functional neuroimaging and its application to better understanding internalizing, alcohol or substance use, and neurodegenerative disorders. Outside of work hours, she likes sketching, reading fantasy novels, and petting other people's cats. <br> 
-    📄  <a href= "https://www.jechenlab.com/assets/Shirley_CV.pdf">CV</a>
+    📄  <a href= "https://www.jechenlab.com/assets/Shirley_CV.pdf">CV</a><br>
+email address: sfeng3@mgh.harvard.edu
     </p1> 
 </div>
 </section_dakota>
@@ -61,7 +64,9 @@ layout: simple
     <p1>Sean is a research assistant for Jingyuan with his research focusing on developing and validating analysis methods for fPET-FDG. As an undergraduate student at Northeastern University, he is working towards a Bachelors in Mathematics and Physics with a minor in Behavioral Neuroscience. In his free time, Sean helps run Northeastern’s Buddhist Group, Clay Cave (a pottery club), and Ballroom Dance Club.<br> 
   🖇  <a href = "https://www.seancoursey.com/">Personal Website</a>
     &nbsp;&nbsp;&nbsp;
-    📄  <a href= "https://drive.google.com/file/d/1gNcb_G67HjOkPChk0lYX44-ITdEf6wLM/view">CV</a></p1> 
+    📄  <a href= "https://drive.google.com/file/d/1gNcb_G67HjOkPChk0lYX44-ITdEf6wLM/view">CV</a><br>
+email address: SCOURSEY@mgh.harvard.edu
+    </p1> 
 </div>
 </section_dakota>
 
@@ -75,18 +80,9 @@ layout: simple
     📖  <a href = "https://scholar.google.com/citations?hl=zh-CN&user=RMFYKDYAAAAJ&view_op=list_works&gmla=ABEO0YpFxJq8w-fxYbaoNpDQh90oNAkj7t9EYk-ip4E_TzYhk62QxTuIRPomkLY1YLSSnY9Bbfts6MivJ5oLLy2vx5ZefZdSpexTZVX5ibI">Google Scholar</a>
     &nbsp;&nbsp;&nbsp;
     🖇  <a href = "https://penghui-du.com/">Personal Website</a>&nbsp;&nbsp;&nbsp;
-    📄  <a href= "https://penghui-du.com/uploads/resume.pdf">CV</a>
+    📄  <a href= "https://penghui-du.com/uploads/resume.pdf">CV</a><br>
+email address: pedu@mgh.harvard.edu
     </p1> 
-</div>
-</section_dakota>
-
-
-<section_dakota class='people'>
-	<img src="/images/zihad.png" >
-<div class='text'> 
-	<h3>Zihad Syed</h3>
-	<h6><em>Undergraduate Research Assistant</em></h6>
-    <p1>Zihad is an undergraduate student at Northeastern University studying bioengineering and biochemistry. Academically he is interested in the physics behind medical imaging, as well as the various clinical applications of neurological research. In his free time, he enjoys cooking, spending time with family and friends, and staying active. </p1> 
 </div>
 </section_dakota>
 
@@ -110,8 +106,9 @@ layout: simple
 		<h3>Alumni</h3>
 		<br>
 <br>
-    <p1> Deborah Wanderley dos Santos 
-    	(Harvard part-time intern, now Ph.D. student at Northeastern University)<br>
+    <p1> 
+Zihad Syed (summer student at Northeastern University)<br>
+Deborah Wanderley dos Santos (Harvard part-time intern, now Ph.D. student at Northeastern University)<br>
 Priyadharshini Santhanakrishnan (summer student, now Ph.D. student at National University of Singapore)<br>
 Neo Nyoni (Northeastern part-time intern)<br>
 Jennifer Yeo (Northeastern Co-op student, now master student at Boston University)<br>
