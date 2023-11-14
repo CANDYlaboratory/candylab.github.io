@@ -12,6 +12,10 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1><br>
 
+<strong>October 2023</strong><br>
+
+🥳 Dakota gave a talk on characterizing fMRI signitures of systemic physiology in healthy aging in Human Connectome Project (HCP)/Adult Aging Brain Connectome (AABC) Data Symposium  
+
 <strong>July 2023</strong><br>
 
 🎤 We are heading to Montreal for OHBM 2023! Dakota will present her work on 7T white-matter fMRI and the fMRI signatures of systemic physiology in aging; Sean will present his work on functional PET analysis; and Jingyuan will give an educational talk and a symposium talk. 
