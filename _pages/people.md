@@ -20,7 +20,7 @@ layout: simple
 	📖  <a href = "https://scholar.google.com/citations?user=x2-XVPUAAAAJ&hl=en&oi=ao">Google Scholar</a>
     &nbsp;&nbsp;&nbsp;
 	🖇  <a href = "https://sites.google.com/view/jingyuan-e-chen/about">Personal Website</a><br>
-	📧 <a href = "jechen@mgh.harvard.edu">email address</a>
+	📧 <a href = "mailto:jechen@mgh.harvard.edu">email address</a>
 
     </p1> 
 
@@ -37,7 +37,7 @@ layout: simple
 	<h6><em>Research Technician II</em></h6>
     <p1>Dakota obtained her M.S in Data Science at NYU Courant, and her B.S. in Neuroscience from NYU. Her research interest underlies in deploying machine learning and statistical knowledge to study various brain functions, and deciphering 1. the physiological networks in aging population and 2. white matter tracts activation under high-field fMRI. During her spare time, Dakota enjoys traveling, surfing, bouldering, photograghy, and visual arts. <br> 
     	🖇  <a href = "https://dakotafan.github.io/Portfolio/">Personal Website</a><br>
-	📧 <a href = "jfan0@mgh.harvard.edu">email address</a>
+	📧 <a href = "mailto:jfan0@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
 </section_dakota>
@@ -50,7 +50,7 @@ layout: simple
 	<h6><em>Research Technician II</em></h6>
     <p1>Shirley is the lab manager and a research assistant in the CANDY lab. She earned her B.S. in Clinical Psychology and Cognitive Behavioral Neuroscience from UCSD. Her research interests are in functional neuroimaging and its application to better understanding internalizing, alcohol or substance use, and neurodegenerative disorders. Outside of work hours, she likes sketching, reading fantasy novels, and petting other people's cats. <br> 
 	📄  <a href= "https://www.jechenlab.com/assets/Shirley_CV.pdf">CV</a><br>
-	📧 <a href = "sfeng3@mgh.harvard.edu">email address</a>
+	📧 <a href = "mailto:sfeng3@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
 </section_dakota>
@@ -66,7 +66,7 @@ layout: simple
 	🖇  <a href = "https://www.seancoursey.com/">Personal Website</a>
     &nbsp;&nbsp;&nbsp;
 	📄  <a href= "https://drive.google.com/file/d/1gNcb_G67HjOkPChk0lYX44-ITdEf6wLM/view">CV</a><br>
-	📧 <a href = "SCOURSEY@mgh.harvard.edu">email address</a>
+	📧 <a href = "mailto:SCOURSEY@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
 </section_dakota>
@@ -82,7 +82,7 @@ layout: simple
     &nbsp;&nbsp;&nbsp;
 	🖇  <a href = "https://penghui-du.com/">Personal Website</a>&nbsp;&nbsp;&nbsp;
 	📄  <a href= "https://penghui-du.com/uploads/resume.pdf">CV</a><br>
-	📧 <a href = "pedu@mgh.harvard.edu">email address</a>
+	📧 <a href = "mailto:pedu@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
 </section_dakota>
