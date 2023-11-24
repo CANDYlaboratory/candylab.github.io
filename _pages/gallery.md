@@ -8,5 +8,6 @@ featured_image: /images/demo/Logo.png
 	<img src="/images/demo/Dakota3.JPG">
 	<img src="/images/demo/Sean1.PNG">
 	<img src="/images/demo/lab1.JPG">
+	<img src="/images/demo/EscapeRoom.jpg">
 </div>
 
