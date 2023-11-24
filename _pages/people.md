@@ -34,9 +34,9 @@ email address: jechen@mgh.harvard.edu
 <div class='text'> 
 	<h3>Jiawen Fan</h3>
 	<h6><em>Research Technician II</em></h6>
-    <p1>Dakota is a master student studying data science at NYU Courant and obtained her B.S. in Neuroscience from NYU. Her research interest underlies in deploying machine learning and statistical knowledge to study various brain functions, and deciphering 1. the physiological networks in aging population and 2. white matter tracts activation under high-field fMRI. During her spare time, Dakota enjoys traveling, surfing, bouldering, photograghy, and visual arts. <br> 
+    <p1>Dakota obtained her M.S in Data Science at NYU Courant, and her B.S. in Neuroscience from NYU. Her research interest underlies in deploying machine learning and statistical knowledge to study various brain functions, and deciphering 1. the physiological networks in aging population and 2. white matter tracts activation under high-field fMRI. During her spare time, Dakota enjoys traveling, surfing, bouldering, photograghy, and visual arts. <br> 
     	🖇  <a href = "https://dakotafan.github.io/Portfolio/">Personal Website</a><br>
-email address: jfan0@mgh.harvard.edu
+	📧 <a href = jfan0@mgh.harvard.edu>email address</a>
     </p1> 
 </div>
 </section_dakota>
