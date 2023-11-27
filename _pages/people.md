@@ -11,7 +11,7 @@ layout: simple
 
 
 
-<section_jingyuan class='people'>
+<section_dakota class='people'>
 	<img src="/images/Jingyuan.png">
 	<div class='text'> 
 	<h3>Jingyuan Chen</h3>
@@ -23,7 +23,7 @@ layout: simple
 	📧 <a href = "mailto:jechen@mgh.harvard.edu">email address</a>
     </p1>
 </div>
-</section_jingyuan>
+</section_dakota>
 
 
 
@@ -40,7 +40,7 @@ layout: simple
 </section_dakota>
 
 
-<section_shirley class='people'>
+<section_dakota class='people'>
 	<img src="/images/shirley.png" >
 <div class='text'> 
 	<h3>Shirley Feng</h3>
@@ -50,11 +50,11 @@ layout: simple
 	📧 <a href = "mailto:sfeng3@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_shirley>
+</section_dakota>
 
 
 
-<section_sean class='people'>
+<section_dakota class='people'>
 	<img src="/images/Sean.png" >
 	<div class='text'> 
 	<h3>Sean Coursey</h3>
@@ -66,10 +66,10 @@ layout: simple
 	📧 <a href = "mailto:SCOURSEY@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_sean>
+</section_dakota>
 
 
-<section_penghui class='people'>
+<section_dakota class='people'>
 	<img src="/images/Penghui.png" >
 <div class='text'> 
 	<h3>Penghui Du</h3>
@@ -82,9 +82,9 @@ layout: simple
 	📧 <a href = "mailto:pedu@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_penghui>
+</section_dakota>
 
-<section_xiao class='people'>
+<section_dakota class='people'>
 	<img src="/images/Xiao.png" >
 <div class='text'> 
 	<h3>Xiao Zhang</h3>
@@ -93,16 +93,16 @@ layout: simple
     	🖇  <a href = "https://xzy-xyz.github.io/">Personal Website</a><br>
     </p1> 
 </div>
-</section_xiao>
+</section_dakota>
 
-<section_jinaffe class='people'>
+<section_dakota class='people'>
 	<img src="/images/giraffe.png" >
 <div class='text'> 
 	<h3>Dr. Jinaffe</h3>
 	<h6><em>Lab mascot</em></h6>
     <p1>Jinaffe is the founding member of the CANDY lab. He first met Jingyuan at her Ph.D. hooding ceremony and then took the roadtrip with her all the way from California to Boston (that was also how he got the neck injury…). His research interests are daydreaming and daydreaming.  </p1>  
 </div>
-</section_jinaffe>
+</section_dakota>
 
 
 
