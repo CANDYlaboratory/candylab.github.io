@@ -4,7 +4,7 @@ title: Prospective Member 𓅸
 ---
 
 
-<strong> Postdoctoral fellows:</strong> We currently have one NIH-funded postdoc position open, please see this [ad]({{site.url}}/assets/PostDoc_MultiModal_Ad.pdf) for further information. If you have external funding resources or ideas for developing fellowship applications, please get in touch! <br>
+<strong> Postdoctoral fellows:</strong> We currently have one NIH-funded postdoc position open, please see this [ad]({{site.url}}/assets/PostDoc_MultiModal_Ad_NEW.pdf) for further information. If you have external funding resources or ideas for developing fellowship applications, please get in touch! <br>
 
 **Ph.D. students:** We always seek graduate students with the passion to perform research at the interface of signal processing, brain imaging, and neuroscience. While we directly recruit graduate students from the [Medical Engineering and Medical Physics (MEMP) program](https://hst.mit.edu/applying-hst/applying-medical-engineering-and-medical-physics-memp-phd-program) at the Harvard-MIT Health Sciences and Technology Institute, we are also very interested in exploring opportunities with graduate students from other universities and departments in the Boston area. If you are interested in joining our group, please send your CV and transcripts to jechen at mgh.harvard.edu. <br>
 
