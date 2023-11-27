@@ -81,7 +81,6 @@
 </section_dakota>
 
 <section_dakota class='people'>
-	<img src="/images/Xiao.png" >
 <div class='text'> 
 	<h3>Xiao Zhang</h3>
 	<h6><em>Visiting Undergraduate Research Assistant</em></h6>
