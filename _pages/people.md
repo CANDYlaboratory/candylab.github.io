@@ -1,7 +1,3 @@
-https://github.com/CANDYlaboratory/candylab.github.io/blob/main/_pages/people.md---
-
-layout: simple
----
 
 <div class='logo'>
 	<div class='logo-wrap'>
