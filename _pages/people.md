@@ -1,10 +1,13 @@
+---
+
+layout: simple
+---
 
 <div class='logo'>
 	<div class='logo-wrap'>
 	<img src="/images/Labupdate0718.png" >
 </div>
 </div>
-
 
 
 <section_dakota class='people'>
