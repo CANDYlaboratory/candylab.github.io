@@ -1,4 +1,4 @@
----
+https://github.com/CANDYlaboratory/candylab.github.io/blob/main/_pages/people.md---
 
 layout: simple
 ---
@@ -11,7 +11,7 @@ layout: simple
 
 
 
-<section_dakota class='people'>
+<section_jingyuan class='people'>
 	<img src="/images/Jingyuan.png">
 	<div class='text'> 
 	<h3>Jingyuan Chen</h3>
@@ -21,12 +21,9 @@ layout: simple
     &nbsp;&nbsp;&nbsp;
 	🖇  <a href = "https://sites.google.com/view/jingyuan-e-chen/about">Personal Website</a><br>
 	📧 <a href = "mailto:jechen@mgh.harvard.edu">email address</a>
-
-    </p1> 
-
+    </p1>
 </div>
-	
-</section_dakota>
+</section_jingyuan>
 
 
 
@@ -43,7 +40,7 @@ layout: simple
 </section_dakota>
 
 
-<section_dakota class='people'>
+<section_shirley class='people'>
 	<img src="/images/shirley.png" >
 <div class='text'> 
 	<h3>Shirley Feng</h3>
@@ -53,11 +50,11 @@ layout: simple
 	📧 <a href = "mailto:sfeng3@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_dakota>
+</section_shirley>
 
 
 
-<section_dakota class='people'>
+<section_sean class='people'>
 	<img src="/images/Sean.png" >
 	<div class='text'> 
 	<h3>Sean Coursey</h3>
@@ -69,10 +66,10 @@ layout: simple
 	📧 <a href = "mailto:SCOURSEY@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_dakota>
+</section_sean>
 
 
-<section_dakota class='people'>
+<section_penghui class='people'>
 	<img src="/images/Penghui.png" >
 <div class='text'> 
 	<h3>Penghui Du</h3>
@@ -85,18 +82,27 @@ layout: simple
 	📧 <a href = "mailto:pedu@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_dakota>
+</section_penghui>
 
+<section_xiao class='people'>
+	<img src="/images/Xiao.png" >
+<div class='text'> 
+	<h3>Xiao Zhang</h3>
+	<h6><em>Visiting Undergraduate Research Assistant</em></h6>
+    <p1>Xiao is a visiting undergraduate student at CANDY lab. She is currently a junior majoring in Biomedical Engineering at Tsinghua University. Her primary research interest lies in fMRI, and she is currently working on high-resolution white matter-related studies. In her free time, she enjoys reading detective novels, watching anime, and practicing simple yoga and dance routines. However, be careful, she's a terrible painter and singer. <br> 
+    	🖇  <a href = "https://xzy-xyz.github.io/">Personal Website</a><br>
+    </p1> 
+</div>
+</section_xiao>
 
-
-<section_dakota class='people'>
+<section_jinaffe class='people'>
 	<img src="/images/giraffe.png" >
 <div class='text'> 
 	<h3>Dr. Jinaffe</h3>
 	<h6><em>Lab mascot</em></h6>
     <p1>Jinaffe is the founding member of the CANDY lab. He first met Jingyuan at her Ph.D. hooding ceremony and then took the roadtrip with her all the way from California to Boston (that was also how he got the neck injury…). His research interests are daydreaming and daydreaming.  </p1>  
 </div>
-</section_dakota>
+</section_jinaffe>
 
 
 
