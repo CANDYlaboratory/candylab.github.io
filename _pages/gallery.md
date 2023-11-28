@@ -9,5 +9,7 @@ featured_image: /images/demo/Logo.png
 	<img src="/images/demo/Sean1.PNG">
 	<img src="/images/demo/lab1.JPG">
 	<img src="/images/demo/EscapeRoom.jpg">
+	<img src="/images/demo/Jingyuan_laminar1.jpeg">
+	<img src="/images/demo/Jingyuan_laminar2.jpeg">
 </div>
 
