@@ -12,13 +12,17 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1><br>
 
+<strong>November 2023</strong><br>
+
+💰💰 We are grateful to the NIH NIMH R21 award for funding our research! We will apply functional PET-MRI to probe the mechanisms underlying fMRI deactivations in cognitive tasks.
+
 <strong>October 2023</strong><br>
 
-🦒🦒 Xiao joined the lab as a visiting undergraduate research assistant! She is a junior undergraduate student at Tsinghua university, majoring in Biomedical Engineering.
+🦒🦒 Xiao joined the lab as a visiting undergraduate research assistant! She is a junior undergraduate student at Tsinghua University, majoring in Biomedical Engineering.
 
-🥳 Dakota gave a talk on characterizing fMRI signitures of systemic physiology in healthy aging in Human Connectome Project (HCP)/Adult Aging Brain Connectome (AABC) Data Symposium  
+🥳 Dakota gave a talk on characterizing fMRI signatures of systemic physiology in healthy aging at Human Connectome Project (HCP)/Adult Aging Brain Connectome (AABC) Data Symposium  
 
-📖 Dakota, Shirley and Penghui attended the Martinos Center laminar fMRI short course!
+📖 Dakota, Shirley, and Penghui attended the Martinos Center laminar fMRI short course!
 
 <strong>July 2023</strong><br>
 
