@@ -51,6 +51,17 @@ layout: simple
 </div>
 </section_dakota>
 
+<section_dakota class='people'>
+	<img src="/images/Arun.png" >
+<div class='text'> 
+	<h3>Arun Garimella</h3>
+	<h6><em>Research Technician II</em></h6>
+    <p1>Arun obtained his BTech and MSc from IIIT-Hyderabad, India. He is interested in applying novel algorithms to brain connectomics fMRI and fPET data amongst others. On weekends and holidays, you will find him climbing cliffs, boulders, and mountains. <br> 
+	📧 <a href = "mailto:AHGARIMELLA@mgh.harvard.edu">email address</a>
+    </p1> 
+</div>
+</section_dakota>
+
 
 
 <section_dakota class='people'>
