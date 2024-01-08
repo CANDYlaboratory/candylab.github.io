@@ -40,7 +40,7 @@ layout: simple
 
 
 <section_dakota class='people'>
-	<img src="/images/shirley.png" >
+	<img src="/images/shirley.jpg" >
 <div class='text'> 
 	<h3>Shirley Feng</h3>
 	<h6><em>Research Technician II</em></h6>
