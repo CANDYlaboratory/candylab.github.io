@@ -34,12 +34,12 @@ layout: simple
     <p1>Dakota obtained her M.S. in Data Science at NYU Courant and her B.S. in Neuroscience from NYU. Her research interest underlies in deploying machine learning and statistical knowledge to study various brain functions, and deciphering 1. the physiological networks in the aging population and 2. white matter tracts activation under high-field fMRI. During her spare time, Dakota enjoys traveling, surfing, bouldering, photography, and visual arts. <br> 
     	🖇  <a href = "https://dakotafan.github.io/Portfolio/">Personal Website</a> &nbsp;&nbsp;&nbsp;
 	📧 <a href = "mailto:jfan0@mgh.harvard.edu">email address</a>
-    </p1> 
+    </p1> <br>
 </div>
 </section_dakota>
 
 
-<section_dakota class='people'><br><br>
+<section_dakota class='people'>
 	<img src="/images/shirley.jpg" >
 <div class='text'> 
 	<h3>Shirley Feng</h3>
