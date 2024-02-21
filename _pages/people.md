@@ -39,7 +39,7 @@ layout: simple
 </section_dakota>
 
 
-<section_dakota class='people'>
+<section_dakota class='people'><br><br>
 	<img src="/images/shirley.jpg" >
 <div class='text'> 
 	<h3>Shirley Feng</h3>
