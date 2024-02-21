@@ -12,6 +12,14 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1><br>
 
+<strong>February 2024</strong><br>
+
+🦒🦒Emma will join the lab as a high-school intern this summer! She is a student from Bronxville High School.
+
+<strong>January 2024</strong><br>
+
+🥳Both Sean and Penghui’s abstracts are accepted by [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229)! Sean’s abstract is also accepted by [ISMRM](https://www.ismrm.org/24m/)! Congrats!
+
 <strong>November 2023</strong><br>
 
 💰💰 We are grateful to the NIH NIMH R21 award for funding our research! We will apply functional PET-MRI to probe the mechanisms underlying fMRI deactivations in cognitive tasks.
