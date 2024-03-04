@@ -3,6 +3,7 @@ featured_image: /images/demo/Logo.png
 ---
 
 <div class="gallery" data-columns="3">
+	<img src="/images/demo/LabMeeting.jpg">
 	<img src="/images/demo/Dakota1.JPG">
 	<img src="/images/demo/Dakota2.JPG">
 	<img src="/images/demo/Dakota3.JPG">
@@ -16,6 +17,7 @@ featured_image: /images/demo/Logo.png
    	<img src="/images/demo/IMG_2781.jpg">
     	<img src="/images/demo/Penghui.jpg">
    	<img src="/images/demo/Penghui1.jpg">
+    
 
 
  
