@@ -1,4 +1,4 @@
----
+a---
 
 layout: simple
 ---
@@ -103,7 +103,7 @@ layout: simple
 </section_dakota>
 
 <section_dakota class='people'>
-	<img src="/images/" >
+	<img src="/images/emma.png" >
 <div class='text'> 
 	<h3>Emma Yeon</h3>
 	<h6><em>Summer Intern</em></h6>
