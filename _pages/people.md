@@ -102,8 +102,25 @@ layout: simple
 </div>
 </section_dakota>
 
+<section_dakota class='people'>
+	<img src="/images/" >
+<div class='text'> 
+	<h3>Emma Yeon</h3>
+	<h6><em>Summer Intern</em></h6>
+    <p1>Emma is a summer intern at the CANDY lab. She is currently a student at Bronxville High School in New York. Emma is particularly interested in computational neuroscience and bioimaging techniques. In her free time, she enjoys playing squash, field hockey, and the piano, making digital artworks, and reading science fiction novels. <br> 
+    	🖇  <a href = "eyeon@mgh.harvard.edu'">email address</a>
+    </p1> 
+</div>
+</section_dakota>
 
-
+<section_dakota class='people'>
+	<img src="/images/giraffe.png" >
+<div class='text'> 
+	<h3>Dr. Jinaffe</h3>
+	<h6><em>Lab mascot</em></h6>
+    <p1>Jinaffe is the founding member of the CANDY lab. He first met Jingyuan at her Ph.D. hooding ceremony and then took the road trip with her all the way from California to Boston (that was also how he got the neck injury…). His research interests are daydreaming and daydreaming.  </p1>  
+</div>
+</section_dakota>
 
 <section_dakota class='people'>
 
