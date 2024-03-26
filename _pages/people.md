@@ -93,14 +93,6 @@ layout: simple
 </div>
 </section_dakota>
 
-<section_dakota class='people'>
-	<img src="/images/giraffe.png" >
-<div class='text'> 
-	<h3>Dr. Jinaffe</h3>
-	<h6><em>Lab mascot</em></h6>
-    <p1>Jinaffe is the founding member of the CANDY lab. He first met Jingyuan at her Ph.D. hooding ceremony and then took the road trip with her all the way from California to Boston (that was also how he got the neck injury…). His research interests are daydreaming and daydreaming.  </p1>  
-</div>
-</section_dakota>
 
 <section_dakota class='people'>
 	<img src="/images/emma.png" >
@@ -112,6 +104,7 @@ layout: simple
     </p1> 
 </div>
 </section_dakota>
+
 
 <section_dakota class='people'>
 	<img src="/images/giraffe.png" >
