@@ -10,7 +10,7 @@ layout: simple
 </div>
 
 
-<section_dakota class='people'>
+<section_jingyuan class='people'>
 	<img src="/images/Jingyuan.png">
 	<div class='text'> 
 	<h3>Jingyuan Chen</h3>
@@ -22,24 +22,9 @@ layout: simple
 	📧 <a href = "mailto:jechen@mgh.harvard.edu">email address</a>
     </p1>
 </div>
-</section_dakota>
+</section_jingyuan>
 
-
-
-<section_dakota class='people'>
-	<img src="/images/Dakota.png" >
-<div class='text'> 
-	<h3>Jiawen Fan</h3>
-	<h6><em>Research Technician II</em></h6>
-    <p1>Dakota obtained her M.S. in Data Science at NYU Courant and her B.S. in Neuroscience from NYU. Her research interest underlies in deploying machine learning and statistical knowledge to study various brain functions, and deciphering 1. the physiological networks in the aging population and 2. white matter tracts activation under high-field fMRI. During her spare time, Dakota enjoys traveling, surfing, bouldering, photography, and visual arts. <br> 
-    	🖇  <a href = "https://dakotafan.github.io/Portfolio/">Personal Website</a> &nbsp;&nbsp;&nbsp;
-	📧 <a href = "mailto:jfan0@mgh.harvard.edu">email address</a>
-    </p1> <br>
-</div>
-</section_dakota>
-
-
-<section_dakota class='people'>
+<section_shirley class='people'>
 	<p> </p><br>
 	<img src="/images/shirley.jpg" >
 <div class='text'> 
@@ -50,9 +35,9 @@ layout: simple
 	📧 <a href = "mailto:sfeng3@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_dakota>
+</section_shirley>
 
-<section_dakota class='people'>
+<section_sean class='people'>
 	<img src="/images/Sean.png" >
 	<div class='text'> 
 	<h3>Sean Coursey</h3>
@@ -64,10 +49,10 @@ layout: simple
 	📧 <a href = "mailto:SCOURSEY@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_dakota>
+</section_sean>
 
 
-<section_dakota class='people'>
+<section_penghui class='people'>
 	<img src="/images/Penghui.png" >
 <div class='text'> 
 	<h3>Penghui Du</h3>
@@ -80,20 +65,9 @@ layout: simple
 	📧 <a href = "mailto:pedu@mgh.harvard.edu">email address</a>
     </p1> 
 </div>
-</section_dakota>
+</section_penghui>
 
-<section_dakota class='people'>
-	<img src="/images/XiaoZhang.png" >
-<div class='text'> 
-	<h3>Xiao Zhang</h3>
-	<h6><em>Visiting Undergraduate Research Assistant</em></h6>
-    <p1>Xiao is a visiting undergraduate student at CANDY lab. She is currently a junior majoring in Biomedical Engineering at Tsinghua University. Her primary research interest lies in fMRI, and she is currently working on high-resolution white matter-related studies. In her free time, she enjoys reading detective novels, watching anime, and practicing simple yoga and dance routines. However, be careful, she's a terrible painter and singer. <br> 
-    	🖇  <a href = "https://xzy-xyz.github.io/">Personal Website</a>
-    </p1> 
-</div>
-</section_dakota>
-
-<section_dakota class='people'>
+<section_emma class='people'>
 	<img src="/images/emma.png" >
 <div class='text'> 
 	<h3>Emma Yeon</h3>
@@ -102,27 +76,25 @@ layout: simple
     	🖇  <a href = "eyeon@mgh.harvard.edu'">email address</a>
     </p1> 
 </div>
-</section_dakota>
+</section_emma>
 
-<section_dakota class='people'>
+<section_jinaffe class='people'>
 	<img src="/images/giraffe.png" >
 <div class='text'> 
 	<h3>Dr. Jinaffe</h3>
 	<h6><em>Lab mascot</em></h6>
     <p1>Jinaffe is the founding member of the CANDY lab. He first met Jingyuan at her Ph.D. hooding ceremony and then took the road trip with her all the way from California to Boston (that was also how he got the neck injury…). His research interests are daydreaming and daydreaming.  </p1>  
 </div>
-</section_dakota>
+</section_jinaffe>
 
-
-
-
-<section_dakota class='people'>
-
+	
 <div class='alumni'> 
 		<h3>Alumni</h3>
 		<br>
 <br>
     <p1> 
+Dakota Fan (Research Technologist)<br> 
+Xiao Zhang (summer student, now a Ph.D. student at Tsinghua University)<br>
 Zihad Syed (summer student at Northeastern University)<br>
 Deborah Wanderley dos Santos (Harvard part-time intern, now a Ph.D. student at Northeastern University)<br>
 Priyadharshini Santhanakrishnan (summer student, now a Ph.D. student at the National University of Singapore)<br>
@@ -132,6 +104,3 @@ Angel Huang (MIT UROP student, now a software developer at Five Rings LLC)<br>
 Xue Zhang (visiting Ph.D. student from Tsinghua University, now a postdoctoral fellow at Stanford)<br>
 </p1>  
 </div>
-</section_dakota>
-
-
