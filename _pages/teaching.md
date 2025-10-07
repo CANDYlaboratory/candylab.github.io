@@ -5,7 +5,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 **HST. 583: Functional Magnetic Resonance Imaging: Data Acquisition and Analysis.**<br>
 
-This Harvard-MIT HST course is offered every two years, and the next course will be offered in the fall of 2024. 
+This Harvard-MIT HST course is offered every two years, and the next course will be offered in the fall of 2026. 
 
 **Resources of other educational lectures:**
 1. Introduction to fMRI [[Martinos Center, Why & How seminar]](https://www.youtube.com/watch?v=a2ptYq1B9EA)  
@@ -17,6 +17,6 @@ This Harvard-MIT HST course is offered every two years, and the next course will
 
 **𓅹 Medical image cartoons:**
 <br>
-In addition to those advanced neuroimaging topics, we are also interested in creating cartoon tutorials on medical imaging. Some examples are shown [here]({{site.url}}/cartoons.html)
+In addition to those advanced neuroimaging topics, we are also interested in creating cartoon tutorials on medical imaging: [MRI Physics](https://www.dropbox.com/scl/fi/by1oy8dtvaim7llgkweei/MRI-Cartoon-2025.mp4?rlkey=ih74re4v6u0sf8qa3hc8zm95i&dl=0), [fMRI](https://www.dropbox.com/scl/fi/les38134th16mako5nu34/fMRI-Cartoon-2025.mp4?rlkey=5wf344y1o8bygzjpot96nvnph&dl=0), and on [different imaging modalities ]({{site.url}}/cartoons.html)
 
 
