@@ -3,7 +3,7 @@ featured_image: /images/demo/Logo.png
 ---
 
 <div class="gallery" data-columns="3">
-	<img src="/images/lab_dinner1.PNG">
+	<img src="/images/lab_dinner1.png">
 	<img src="/images/shirley_brisbane.jpg">
 	<img src="/images/lab_dinner2.jpg">
 	<img src="/images/lab_pottery.jpeg">
