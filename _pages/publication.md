@@ -7,6 +7,176 @@ title: Journal Publication
 <ol class="bibliography">
 
 <li> 
+<div id="">
+    <span class="author">
+               Chen JE, Blazejewska AI, Fan J, Fultz NE, Rosen BR, Lewis RD, Polimeni JR.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">Differentiating BOLD and Non-BOLD signals in FMRI time series using cross-cortical depth delay patterns.</span>
+    <span class="periodical">
+      <em>Imaging Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.910/133183" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Coursey SE, Mandeville J, Reed MB, Hartung GA, Garimella A, Sari H, Lanzenberger R, Price JC, Polimeni JR, Greve DN, Hahn A, Chen JE.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">On the analysis of functional PET (fPET)-FDG: baseline mischaracterization can introduce artifactual metabolic (de) activations.</span>
+    <span class="periodical">
+      <em>Imaging Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.110/132049" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Hu Z, Proulx S, Hartung GA, Gomez DEP, Chen JE, Varadarajan D, Gökçal E, Bollmann S, Tan CO, Gurol ME, Polimeni JR.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">Visual stimulus-evoked blood velocity responses in individual human posterior cerebral arteries measured with dynamic phase-contrast functional MR angiography.</span>
+    <span class="periodical">
+      <em>Imaging Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.148/132806" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Fan J, Juttukonda MR, Goodale SE, Wang S, Orbán C, Varadarajan D, Polimeni JR, Chang C, Salat DH, Chen JE.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">Functional MRI signatures of autonomic physiology in aging.</span>
+    <span class="periodical">
+      <em>Communicatioins Biology.</em>
+    </span>
+  <span class="links">
+    [<a href="https://www.nature.com/articles/s42003-025-08703-7" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Song R, Min J, Wang S, Goodale SE, Rogge-Obando K, Yang R, Yoo HJ, Nashiro K, Chen JE, Mather M, Chang C.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">The physiological component of the BOLD signal: Impact of age and heart rate variability biofeedback training.</span>
+    <span class="periodical">
+      <em>Imaging Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.99/131868" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Reed MB, Cocchi L, Sander CY, Chen JE, ... Hahn A.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">Connecting the dots: approaching a standardized nomenclature for molecular connectivity in positron emission tomography.</span>
+    <span class="periodical">
+      <em>European Journal of Nuclear Medicine and Molecular Imaging.</em>
+    </span>
+  <span class="links">
+    [<a href="https://link.springer.com/article/10.1007/s00259-025-07357-1" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Zürcher NR, Chen JE, Wey H.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">PET‐MRI Applications and Future Prospects in Psychiatry.</span>
+    <span class="periodical">
+      <em>Journal of Magnetic Resonance Imaging.</em>
+    </span>
+  <span class="links">
+    [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29471" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Gold BP, Goodale SE, Zhao C, Pourmotabbed H, Zwart JAd, Özbay PS, Bolt TS, Duyn JH, Chen JE, Chang C.
+    </span>
+    <span class="year">
+        (2024).</span>
+    <span class="title">Functional MRI signals exhibit stronger covariation with peripheral autonomic measures as vigilance decreases.</span>
+    <span class="periodical">
+      <em>Imaging Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00287/124206" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Bagdasarian FA, Hansen HD, Chen JE, Yoo C, Placzek MS, Hooker JM, Wey H.
+    </span>
+    <span class="year">
+        (2024).</span>
+    <span class="title">Acute Effects of Hallucinogens on Functional Connectivity: Psilocybin and Salvinorin-A.</span>
+    <span class="periodical">
+      <em>ACS Chemical Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://pubs.acs.org/doi/abs/10.1021/acschemneuro.4c00245" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Lee QN, Chen JE, Wheeler GJ, Fan AP.
+    </span>
+    <span class="year">
+        (2024).</span>
+    <span class="title">Characterizing systemic physiological effects on the blood oxygen level dependent signal of resting‐state fMRI in time‐frequency space using wavelets.</span>
+    <span class="periodical">
+      <em>Human Brain Mapping.</em>
+    </span>
+  <span class="links">
+    [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26533" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
 <div id="2022 Morphological component analysis">
     <span class="author">
                 Nguyen H, Chen JE, Glover GH.
