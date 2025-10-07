@@ -3,6 +3,10 @@ featured_image: /images/demo/Logo.png
 ---
 
 <div class="gallery" data-columns="3">
+	<img src="/images/lab_pottery.jpeg">
+	<img src="/images/lab_dinner.PNG">
+	<img src="/images/shirley_brisbane.jpg">
+	<img src="/images/lab_dinner2.jpg">
 	<img src="/images/demo/LabMeeting.jpg">
 	<img src="/images/demo/Dakota1.JPG">
 	<img src="/images/demo/Dakota2.JPG">
