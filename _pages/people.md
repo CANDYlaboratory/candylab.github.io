@@ -37,21 +37,6 @@ layout: simple
 </div>
 </section_shirley>
 
-<section_sean class='people'>
-	<img src="/images/Sean.png" >
-	<div class='text'> 
-	<h3>Sean Coursey</h3>
-	<h6><em>Undergraduate Research Assistant</em></h6>
-    <p1>Sean is a research assistant for Jingyuan with his research focusing on developing and validating analysis methods for fPET-FDG. As an undergraduate student at Northeastern University, he is working towards a Bachelor's in Mathematics and Physics with a minor in Behavioral Neuroscience. In his free time, Sean helps run Northeastern’s Buddhist Group, Clay Cave (a pottery club), and Ballroom Dance Club.<br> 
-	🖇  <a href = "https://www.seancoursey.com/">Personal Website</a> &nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;
-	📄  <a href= "https://drive.google.com/file/d/1gNcb_G67HjOkPChk0lYX44-ITdEf6wLM/view">CV</a> &nbsp;&nbsp;&nbsp;
-	📧 <a href = "mailto:SCOURSEY@mgh.harvard.edu">email address</a>
-    </p1> 
-</div>
-</section_sean>
-
-
 <section_penghui class='people'>
 	<img src="/images/Penghui.png" >
 <div class='text'> 
@@ -93,6 +78,7 @@ layout: simple
 		<br>
 <br>
     <p1> 
+Sean Coursey (Undergraduate research assistant)<br>
 Dakota Fan (Research Technologist)<br> 
 Xiao Zhang (summer student, now a Ph.D. student at Tsinghua University)<br>
 Zihad Syed (summer student at Northeastern University)<br>
