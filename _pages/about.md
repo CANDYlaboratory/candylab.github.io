@@ -9,16 +9,37 @@ Our research program lies at the interface of biomedical engineering, signal pro
 <br>
 
 
-
 <h1>News</h1><br>
+
+<strong>September 2025</strong><br>
+🦒🦒 Sara will join the lab as a research fellow, supported by an NIH T32 training grant! She is a clinical psychologist, with PhD training at University of Alabama at Birmingham and postdoctoral training at Medical University of South Carolina.
+
+<strong>August 2025</strong><br>
+💰💰 Jingyuan was selected as an MGH Research Fellow funded by the Rappaport Foundation!
+
+🦒🦒 We hosted two high school interns, Olivia and Hana, from the Martinos Center Summer Internship program, and they successfully presented their research experience at Science on Tap. 
+
+<strong>June 2025</strong><br>
+🎤 We are heading to Brisbane for OHBM 2025! Shirley will present her work on metabolic signatures of complex network metrics; Jingyuan will give a symposium talk on the EEG-PET-MRI sleep study.
+
+🥳 Sean graduated from the John Martinson Honors Program at Northeastern University! Congrats! 
+
+<strong>January 2025</strong><br>
+🥳 Shirley’s abstract is accepted at [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229) and [Brain and Brain PET](https://www.brain2025.org/)! Congrats!
+
+<strong>June 2024</strong><br>
+🎤 We are heading to Seoul for OHBM 2024! Penghui will present his work on cortical parcellations of metabolic connectivity.
+
+<strong>May 2024</strong><br>
+🎤 We are heading to Montreal for NRM 2024! Sean will give an oral presentation on time-resolved fPET-fMRI fusion.
 
 <strong>February 2024</strong><br>
 
-🦒🦒Emma will join the lab as a high-school intern this summer! She is a student from Bronxville High School.
+🦒🦒 Emma will join the lab as a high-school intern this summer! She is a student from Bronxville High School.
 
 <strong>January 2024</strong><br>
 
-🥳Both Sean and Penghui’s abstracts are accepted by [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229)! Sean’s abstract is also accepted by [ISMRM](https://www.ismrm.org/24m/) and he also received a travel stipend! 
+🥳 Both Sean and Penghui’s abstracts are accepted by [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229)! Sean’s abstract is also accepted by [ISMRM](https://www.ismrm.org/24m/) and he also received a travel stipend! 
 
 Sean’s abstract is accepted as an oral presentation by [NRM](https://www.mcgill.ca/nrm2024/)! Congrats!
 
@@ -42,7 +63,7 @@ Sean’s abstract is accepted as an oral presentation by [NRM](https://www.mcgil
 
 <strong>June 2023</strong><br>
 
-🥳 Shirley graduated from UCSD! Congrats!
+🥳 Shirley graduated from University of California, San Diego! Congrats!
 
 🎤 We are heading to Toronto for ISMRM 2023! Dakota will present her 7T white matter fMRI work. 
 
