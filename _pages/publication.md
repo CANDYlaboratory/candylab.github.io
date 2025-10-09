@@ -9,6 +9,23 @@ title: Journal Publication
 <li> 
 <div id="">
     <span class="author">
+               Chen JE, Lewis LD, Coursey SE, Catana C, Polimeni JR, Fan J, Droppa KS, Patel R, Wey H, Chang C, Manoach DS, Price JC, Sander CY, Rosen BR.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">Simultaneous EEG-PET-MRI identifies temporally coupled, spatially structured hemodynamic and metabolic dynamics across wakefulness and NREM sleep.</span>
+    <span class="periodical">
+      <em>bioRxiv.</em>
+    </span>
+  <span class="links">
+    [<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11761522/" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
                Chen JE, Blazejewska AI, Fan J, Fultz NE, Rosen BR, Lewis RD, Polimeni JR.
     </span>
     <span class="year">
@@ -455,76 +472,3 @@ Chen JE, Lewis LD, Chang C, Tian Q, Fultz NE, Ohringer NA, Rosen BR, Polimeni JR
   </span>
 </div>
 </li>
-
-
-</ol>
-
-<br>
-<br>
-
-
-<h1>Selected Conference Presentations</h1>
-<p>(since 2023)</p>
-
-<ol class="bibliography">
- <li> 
-<div id="">
-    <span class="author">Fan J, Gonzalez-Castillo J , Bandettini P , Polimeni J, and Chen J.
-    </span>
-    <span class="year">
-     (2023)
-    </span>
-    <span class="title">Mapping stimulus-driven hemodynamic changes in white matter using 7T high-resolution fMRI. </span>
-    <span class="periodical">
-      <em>ISMRM 2023</em>
-    </span>
-
-</div>
-</li>
-
-
- <li> 
-<div id="">
-    <span class="author">Fan J, Gonzalez-Castillo J, Bandettini P, Polimeni J, Chen J.
-    </span>
-    <span class="year">
-     (2023)
-    </span>
-    <span class="title">Mapping stimulus-driven hemodynamic changes in white matterusing 7T high-resolution fMRI. </span>
-    <span class="periodical">
-      <em>OHBM 2023</em>
-    </span>
-</div>
-</li>
-
- <li> 
-<div id="">
-    <span class="author">Fan J, Juttukonda M, Chang C, Varadarajan D, Polimeni J, Salat D, Chen J.
-    </span>
-    <span class="year">
-     (2023)
-    </span>
-    <span class="title">Characterizing fMRI signatures of systemic physiology in healthy aging. </span>
-    <span class="periodical">
-      <em>OHBM 2023</em>
-    </span>
-</div>
-</li>
-    
- <li> 
-<div id="">
-    <span class="author">Coursey S, Hartung GA, Polimeni JR, Chen JE.
-    </span>
-    <span class="year">
-     (2023)
-    </span>
-    <span class="title"> Bias of Metabolic (De)activations Introduced by Polynomial Detrending of fPET-FDG Data. </span>
-    <span class="periodical">
-      <em>OHBM 2023</em>
-    </span>
-</div>
-</li>
-
-</ol>
- 
-
