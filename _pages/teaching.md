@@ -17,6 +17,6 @@ This Harvard-MIT HST course is offered every two years, and the next course will
 
 **𓅹 Medical image cartoons:**
 <br>
-In addition to those advanced neuroimaging topics, we are also interested in creating cartoon tutorials on medical imaging: [MRI Physics](https://www.dropbox.com/scl/fi/by1oy8dtvaim7llgkweei/MRI-Cartoon-2025.mp4?rlkey=ih74re4v6u0sf8qa3hc8zm95i&dl=0), [fMRI](https://www.dropbox.com/scl/fi/les38134th16mako5nu34/fMRI-Cartoon-2025.mp4?rlkey=5wf344y1o8bygzjpot96nvnph&dl=0), and on [different imaging modalities ]({{site.url}}/cartoons.html)
+In addition to those advanced neuroimaging topics, we are also interested in creating cartoon tutorials on medical imaging. Here are some videos created by Emma on [MRI Physics](https://www.dropbox.com/scl/fi/by1oy8dtvaim7llgkweei/MRI-Cartoon-2025.mp4?rlkey=ih74re4v6u0sf8qa3hc8zm95i&dl=0) and [fMRI](https://www.dropbox.com/scl/fi/les38134th16mako5nu34/fMRI-Cartoon-2025.mp4?rlkey=5wf344y1o8bygzjpot96nvnph&dl=0). Jingyuan also created some cartoons on [different imaging modalities]({{site.url}}/cartoons.html).
 
 
