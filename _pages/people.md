@@ -71,12 +71,11 @@ layout: simple
     <p1>Jinaffe is the founding member of the CANDY lab. He first met Jingyuan at her Ph.D. hooding ceremony and then took the road trip with her all the way from California to Boston (that was also how he got the neck injury…). His research interests are daydreaming and daydreaming.  </p1>  
 </div>
 </section_jinaffe>
+<br>
 
 	
 <div class='alumni'> 
-		<h3>Alumni</h3>
-		<br>
-<br>
+<h3>Alumni</h3>
     <p1> 
 Sean Coursey (Undergraduate research assistant)<br>
 Dakota Fan (Research Technologist)<br> 
