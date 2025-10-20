@@ -42,7 +42,7 @@ layout: simple
 <div class='text'> 
 	<h3>Penghui Du</h3>
 	<h6><em>Visiting Undergraduate Research Assistant</em></h6>
-    <p1>Penghui joined the team as an undergraduate research assistant for the 2023 Fall semester. He is currently pursuing his Bachelor's degree at the Southern University of Science and Technology, with a major in Intelligent Medical Engineering. Penghui is particularly interested in computational and cognitive neuroscience, machine learning, and bioimaging techniques such as fMRI and PET. Besides his studies, he also enjoys listening to all kinds of music, long-distance jogging, and cooking.<br> 
+    <p1>Penghui joined the CANDY Lab as an undergraduate research assistant in Fall 2023 and is currently pursuing his Master’s degree in Neuro-X at EPFL. His research interests focus on neuroimaging data analysis (MRI and PET) and non-invasive neuromodulation techniques. He hopes to translate insights from neuroimaging into advances that benefit clinical practice and disease research. Outside the lab, you’ll often find him experimenting with new recipes in the kitchen.<br> 
 	📖  <a href = "https://scholar.google.com/citations?hl=zh-CN&user=RMFYKDYAAAAJ&view_op=list_works&gmla=ABEO0YpFxJq8w-fxYbaoNpDQh90oNAkj7t9EYk-ip4E_TzYhk62QxTuIRPomkLY1YLSSnY9Bbfts6MivJ5oLLy2vx5ZefZdSpexTZVX5ibI">Google Scholar</a>
     &nbsp;&nbsp;&nbsp;
 	🖇  <a href = "https://penghui-du.com/">Personal Website</a>&nbsp;&nbsp;&nbsp;
