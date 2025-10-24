@@ -24,6 +24,20 @@ layout: simple
 </div>
 </section_jingyuan>
 
+<section_sara class='people'>
+	<img src="/images/sara.png">
+	<div class='text'> 
+	<h3>Sara Nolin</h3>
+	<h6><em>Postdoctoral Research Fellow</em></h6>
+    <p1>Sara is an postdoctoral research fellow in the NIH T32 Program to enrich translation and multimodal research in Alzheimer’s disease and related dementias, PET-MR in ADRD at the Martinos Center for Biomedical Imaging at Massachusetts General Hospital and Harvard Medical School. She received her PhD in Clinical Psychology from the University of Alabama at Birmingham. Her research interests focus on using PET and MRI imaging techniques to better understand aging and Alzheimer's disease. In her free time, she enjoys crocheting, skiing, and reading.<br> 
+	📖  <a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&user=3Uuo_XIAAAAJ&gmla=AKzYXQ1mR6e2UwZZxWsTT9ZQGjm36QYP_OXoMFdC7jP4zYcVMEF9zXtPOLzKgW9LMZRb3B_uWKlbOIrbUZUONVvvRsVUD0NP4bSTzlE9hRrCrw">Google Scholar</a>
+    &nbsp;&nbsp;&nbsp;
+	📄  <a href= "https://www.jechenlab.com/assets/SN_HMS_CV_forwebsite.pdf">CV</a> &nbsp;&nbsp;&nbsp;
+	📧 <a href = "mailto:snolin@mgh.harvard.edu">email address</a>
+    </p1>
+</div>
+</section_sara>
+
 <section_shirley class='people'>
 	<p> </p><br>
 	<img src="/images/shirley.jpg" >
