@@ -11,9 +11,6 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1><br>
 
-<strong>December 2025</strong><br>
-🦒🦒 Leo will join the lab as a research fellow, co-supervised by Prof. Chris Kuzawa from Harvard Evolutionary Biology! He is graduating from the Biomedical Engineering PhD program at Johns Hopkins.
-
 <strong>September 2025</strong><br>
 🦒🦒 Sara will join the lab as a research fellow, supported by an NIH T32 training grant! She is a clinical psychologist, with PhD training at University of Alabama at Birmingham and postdoctoral training at Medical University of South Carolina.
 
