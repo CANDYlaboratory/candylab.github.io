@@ -15,10 +15,10 @@ title: Journal Publication
         (2025).</span>
     <span class="title">Simultaneous EEG-PET-MRI identifies temporally coupled, spatially structured hemodynamic and metabolic dynamics across wakefulness and NREM sleep.</span>
     <span class="periodical">
-      <em>bioRxiv.</em>
+      <em>Nature Communications.</em>
     </span>
   <span class="links">
-    [<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11761522/" target="_blank">link</a>]
+    [<a href="https://www.nature.com/articles/s41467-025-64414-x" target="_blank">link</a>]
   </span>
 </div>
 </li>
