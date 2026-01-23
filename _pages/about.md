@@ -11,6 +11,11 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1><br>
 
+<strong>January 2026</strong><br>
+🥳 Emma has been admitted to the Harvard College Class of 2030! Congrats!
+
+🦒🦒 Abigail will join the lab as a visiting graduate student this Spring! She is a Master student from EPFL, majoring in Life Sciences Engineering.
+
 <strong>December 2025</strong><br>
 🦒🦒 Leo will join the lab as a research fellow, co-supervised by Prof. Chris Kuzawa from Harvard Evolutionary Biology! He is graduating from the Biomedical Engineering PhD program at Johns Hopkins.
 
