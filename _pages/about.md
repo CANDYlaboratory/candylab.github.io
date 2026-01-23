@@ -16,6 +16,8 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 🦒🦒 Abigail will join the lab as a visiting graduate student this Spring! She is a Master student from EPFL, majoring in Life Sciences Engineering.
 
+🎤 Emma’s cartoon videos on medical imaging are up on the [Martinos Youtube website](https://youtu.be/JYHCcWeSAaQ)!
+
 <strong>December 2025</strong><br>
 🦒🦒 Leo will join the lab as a research fellow, co-supervised by Prof. Chris Kuzawa from Harvard Evolutionary Biology! He is graduating from the Biomedical Engineering PhD program at Johns Hopkins.
 
