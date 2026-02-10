@@ -11,6 +11,11 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1><br>
 
+<strong>Feburary 2026</strong><br>
+🥳 Shirley’s and Emma’s abstracts have been accepted by ISMRM! Congrats!!
+
+🦒🦒 Maya has joined the lab as an undergraduate research assistant! She is a sophomore at MIT, majoring in bioengineering, computer science, and neuroscience.
+
 <strong>January 2026</strong><br>
 🥳 Emma has been admitted to the Harvard College Class of 2030! Congrats!
 
@@ -92,17 +97,17 @@ Sean’s abstract is accepted as an oral presentation by [NRM](https://www.mcgil
 
 💰💰 We are grateful to the [BrightFocus Foundation](https://science.brightfocus.org/apply-grant) for funding our research! We will apply simultaneous EEG-PET-MRI to study the mechanisms of Alzheimer’s disease.  
 
-<strong>Mar 2023</strong><br>
+<strong>March 2023</strong><br>
 
 
 🦒🦒 Penghui will join the lab as a visiting student this summer! He is a junior at the Southern University of Science and Technology in China, majoring in Intelligent Medical Engineering.  <br>
 
 🥳 Both Sean and Dakota’s abstracts are accepted by [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114)! Dakota's abstract is also selected for an oral presentation. Congrats!  
 
-<strong>Feb 2023</strong><br>
+<strong>Feburary 2023</strong><br>
 🥳 Dakota’s abstract is accepted by [ISMRM](https://www.ismrm.org/23m/)! She also receives the trainee travel stipend. Congrats!  
 
-<strong>Jan 2023</strong><br>
+<strong>Janurary 2023</strong><br>
 Aloha! The CANDY lab has arrived! <br>
 
 💰💰 We are grateful to the NIH NINDS R00 award for funding our research! We will advance a functional PET-MRI framework to characterize the metabolic signatures of functional network behaviors across different arousal and cognitive states.  <br>  	
