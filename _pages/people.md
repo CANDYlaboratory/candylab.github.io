@@ -24,6 +24,20 @@ layout: simple
 </div>
 </section_jingyuan>
 
+<section_leo class='people'>
+	<img src="/images/leo.png">
+	<div class='text'> 
+	<h3>Joonhee (Leo) Lee</h3>
+	<h6><em>Postdoctoral Research Fellow</em></h6>
+    <p1>Leo is a postdoctoral research fellow in the Human Evolutionary Biology Department working under Dr. Jingyuan Chen and Dr. Chris Kuzawa. He received his PhD in Biomedical Engineering from Johns Hopkins University. His research interests focus on utilizing PET and MRI imaging techniques to understand brain energy metabolism. In his spare time, he enjoys playing golf, soccer, and playing video games.<br> 
+	📖  <a href = "https://scholar.google.com/citations?hl=en&user=bJ3eaCkAAAAJ&view_op=list_works&gmla=APjjwub5hujZRkyb-HtPewgvfP2ay08IZRMWFEN8xaa2d82-pTM9GhAYtXwHmWqoF_sts3Giqd3K04Mn9C8gbmY4OoDsvsnWpYKx4KswdCBuoXvHHMHlikGwCv6XQJpewdo3GoiDy1t05fkYwRO7JOALtvFS">Google Scholar</a>
+    &nbsp;&nbsp;&nbsp;
+	📄  <a href= "https://www.jechenlab.com/assets/2026_Joonhee_Lee_CV.pdf">CV</a> &nbsp;&nbsp;&nbsp;
+	📧 <a href = "mailto:jlee438@mgh.harvard.edu">email address</a>
+    </p1>
+</div>
+</section_leo>
+
 <section_sara class='people'>
 	<img src="/images/sara.png">
 	<div class='text'> 
