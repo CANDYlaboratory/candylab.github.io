@@ -93,7 +93,7 @@ layout: simple
 
 
 <section_maya class='people'>
-	<img src="/images/maya.jpg" >
+	<img src="/images/maya.png" >
 <div class='text'> 
 	<h3>Maya Krishnan</h3>
 	<h6><em>Undergraduate Student</em></h6>
