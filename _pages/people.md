@@ -80,6 +80,29 @@ layout: simple
 </div>
 </section_penghui>
 
+<section_abigaïl class='people'>
+	<img src="/images/abigaïl.jpg" >
+<div class='text'> 
+	<h3>Abigaïl Ingster</h3>
+	<h6><em>Visiting Graduate Student</em></h6>
+    <p1>Abigail is a graduate student in Life Sciences Engineering at EPFL. She will pursue her master’s thesis at the CANDY Lab starting in April 2026 (note from me: March 30th). Her research interests focus on computational neuroscience, spanning neural modeling, neurorehabilitation, and neuromodulation. Abigail plans to pursue medical studies afterward and hopes to leverage her engineering background to help patients! Outside the lab, she enjoys singing in choirs (and karaoke), as well as hiking and biking!<br> 
+	📧 <a href = "mailto:abigail.ingster@epfl.ch">email address</a>
+    </p1> 
+</div>
+</section_abigaïl>
+
+
+<section_maya class='people'>
+	<img src="/images/Penghui.png" >
+<div class='text'> 
+	<h3>Maya Krishnan</h3>
+	<h6><em>Undergraduate Student</em></h6>
+    <p1>Maya is an undergraduate researcher in the CANDY lab. In her research, she investigates neuroimaging techniques for assessing glucose metabolism in brain disorders—focusing on modalities such as PET and MR spectroscopy, including hyperpolarized imaging—and analyzes their advantages, limitations, and clinical and translational potential. Maya studies Brain & Cognitive Sciences and Biological Engineering at MIT, with broad interests in neuroimaging, neuroimmunology, and translational neuroscience. She is also involved in biomedical research and innovation, studying therapeutic strategies for neurological disease at the Broad Institute of MIT & Harvard and developing biosafety-focused, translational solutions at the Martin Trust Center for MIT Entrepreneurship. Outside of work, she enjoys sketching, dancing, and eating with friends.<br> 
+    </p1> 
+</div>
+</section_maya>
+
+
 <section_emma class='people'>
 	<img src="/images/emma.png" >
 <div class='text'> 
