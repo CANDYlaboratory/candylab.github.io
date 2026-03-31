@@ -58,7 +58,7 @@ layout: simple
 <div class='text'> 
 	<h3>Shirley Feng</h3>
 	<h6><em>Research Technician II</em></h6>
-    <p1>Shirley is the lab manager and a research assistant in the CANDY lab. She earned her B.S. in Clinical Psychology and Cognitive Behavioral Neuroscience from UCSD. Her research interests are in functional neuroimaging and its application to better understanding internalizing and neurodegenerative disorders. Outside of work hours, she likes sketching, reading fantasy novels, and petting other people's cats. <br> 
+    <p1>Shirley is the lab manager and a research assistant in the CANDY lab. She earned her B.S. in Clinical Psychology and Cognitive Behavioral Neuroscience from UCSD. Her research interests are in functional neuroimaging and its application to better understanding internalizing and neurodegenerative disorders. Outside of work hours, she likes sketching, reading fantasy novels, and petting other people's cats. But as of July 7 2025 she has her own cat!<br> 
 	📄  <a href= "https://www.jechenlab.com/assets/Shirley_CV.pdf">CV</a> &nbsp;&nbsp;&nbsp;
 	📧 <a href = "mailto:sfeng3@mgh.harvard.edu">email address</a>
     </p1> 
