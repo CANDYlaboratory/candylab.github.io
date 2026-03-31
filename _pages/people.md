@@ -81,7 +81,7 @@ layout: simple
 </section_penghui>
 
 <section_abigaïl class='people'>
-	<img src="/images/abigaïl.jpg" >
+	<img src="/images/abigaïl.png" >
 <div class='text'> 
 	<h3>Abigaïl Ingster</h3>
 	<h6><em>Visiting Graduate Student</em></h6>
@@ -93,7 +93,7 @@ layout: simple
 
 
 <section_maya class='people'>
-	<img src="/images/Penghui.png" >
+	<img src="/images/maya.jpg" >
 <div class='text'> 
 	<h3>Maya Krishnan</h3>
 	<h6><em>Undergraduate Student</em></h6>
