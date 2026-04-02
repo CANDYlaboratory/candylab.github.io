@@ -13,6 +13,7 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <strong>March 2026</strong><br>
 🥳 Shirley is going to start her PhD journey at WashU starting this fall! Congrats!!
+
 🥳 Leo has received a Harvard Mind Brain Behavior award to support his postdoctoral research! Congrats!!
 
 <strong>Feburary 2026</strong><br>
