@@ -85,7 +85,7 @@ layout: simple
 <div class='text'> 
 	<h3>Abigaïl Ingster</h3>
 	<h6><em>Visiting Graduate Student</em></h6>
-    <p1>Abigail is a graduate student in Life Sciences Engineering at EPFL. She will pursue her master’s thesis at the CANDY Lab starting in April 2026 (note from me: March 30th). Her research interests focus on computational neuroscience, spanning neural modeling, neurorehabilitation, and neuromodulation. Abigail plans to pursue medical studies afterward and hopes to leverage her engineering background to help patients! Outside the lab, she enjoys singing in choirs (and karaoke), as well as hiking and biking!<br> 
+    <p1>Abigail is a graduate student in Life Sciences Engineering at EPFL. She will pursue her master’s thesis at the CANDY Lab starting in April 2026. Her research interests focus on computational neuroscience, spanning neural modeling, neurorehabilitation, and neuromodulation. Abigail plans to pursue medical studies afterward and hopes to leverage her engineering background to help patients! Outside the lab, she enjoys singing in choirs (and karaoke), as well as hiking and biking!<br> 
 	📧 <a href = "mailto:abigail.ingster@epfl.ch">email address</a>
     </p1> 
 </div>
