@@ -16,6 +16,8 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 🥳 Leo has received a Harvard Mind Brain Behavior award to support his postdoctoral research! Congrats!!
 
+🥳 Shirley has been promoted to Senior Research Technician! Congrats!
+
 <strong>Feburary 2026</strong><br>
 🥳 Shirley’s and Emma’s abstracts have been accepted by ISMRM! Congrats!!
 
@@ -46,6 +48,9 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <strong>January 2025</strong><br>
 🥳 Shirley’s abstract is accepted at [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229) and [Brain and Brain PET](https://www.brain2025.org/)! Congrats!
+
+<strong>July 2024</strong><br>
+🥳 Dakota has been promoted to Senior Research Technician! Congrats!
 
 <strong>June 2024</strong><br>
 🎤 We are heading to Seoul for OHBM 2024! Penghui will present his work on cortical parcellations of metabolic connectivity.
