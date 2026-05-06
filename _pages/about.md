@@ -11,6 +11,9 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <h1>News</h1><br>
 
+<strong>May 2026</strong><br>
+🎤 We are heading to Cape Town for ISMRM 2026! Shirley will present her DMN Physiology project, and Emma will present her fMRI Cardiac Pulsations project!
+
 <strong>March 2026</strong><br>
 🥳 Shirley is going to start her PhD journey at WashU starting this fall! Congrats!!
 
