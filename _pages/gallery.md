@@ -3,6 +3,8 @@ featured_image: /images/demo/Logo.png
 ---
 
 <div class="gallery" data-columns="3">
+	<img src="/images/IMG_0825.jpeg">
+	<img src="/images/IMG_0784.jpeg">
 	<img src="/images/LabMeeting_Dec16.jpeg">
 	<img src="/images/LabDinner_dec15.png">
 	<img src="/images/lab_dinner1.png">
@@ -19,10 +21,7 @@ featured_image: /images/demo/Logo.png
 	<img src="/images/demo/Jingyuan_laminar2.jpeg">
   	<img src="/images/demo/IMG_2781.jpg">
    	<img src="/images/demo/Penghui1.jpg">
-    	<img src="/images/demo/IMG_2722.jpg">
-    
-
-
+	<img src="/images/demo/IMG_2722.jpg">
  
 </div>
 
