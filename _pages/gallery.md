@@ -7,6 +7,7 @@ featured_image: /images/demo/Logo.png
 	<img src="/images/ISMRM2026_1.jpeg">
 	<img src="/images/ISMRM2026_2.jpeg">
 	<img src="/images/ISMRM2026_3.jpeg">
+	<img src="/images/ISMRM2026_4.jpeg">
 	<img src="/images/IMG_0720.jpeg">
 	<img src="/images/IMG_0721.jpeg">
 	<img src="/images/IMG_0825.jpeg">
