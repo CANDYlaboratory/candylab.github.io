@@ -8,8 +8,17 @@ Our research program lies at the interface of biomedical engineering, signal pro
 
 <br>
 
-
 <h1>News</h1><br>
+
+<strong>July 2026</strong><br>
+🦒🦒 Tracy has joined the lab as an undergraduate research assistant! She is a rising senior at UC Irvine, majoring in cognitive science and data science.
+
+<strong>June 2026</strong><br>
+🥳 Abigail has been admitted to the medical school at Sorbonne University in Paris! Congrats!
+
+🥳 Sara received a travel award from the OHBM satellite event organized by the molecular connectivity working group! Congrats!
+
+🎤 We are heading to Bordeaux for OHBM 2026! Sara will present her work on sleep cerebellar dynamics; Shirley will present her DMN physiology project; and Jingyuan will co-organize an educational course on functional PET and multi-modal fusion!
 
 <strong>May 2026</strong><br>
 🎤 We are heading to Cape Town for ISMRM 2026! Shirley will present her DMN Physiology project, and Emma will present her fMRI Cardiac Pulsations project!
