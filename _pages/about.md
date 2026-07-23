@@ -13,8 +13,6 @@ Our research program lies at the interface of biomedical engineering, signal pro
 <strong>July 2026</strong><br>
 🦒🦒 Tracy has joined the lab as an undergraduate research assistant! She is a rising senior at UC Irvine, majoring in cognitive science and data science.
 
-🦒🦒 Tracy has joined the lab as an undergraduate research assistant! She is a rising senior at UC Irvine, majoring in cognitive science and data science.
-
 <strong>June 2026</strong><br>
 🥳 Abigail has been admitted to the medical school at Sorbonne University in Paris! Congrats!
 
