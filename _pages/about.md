@@ -11,7 +11,7 @@ Our research program lies at the interface of biomedical engineering, signal pro
 <h1>News</h1><br>
 
 <strong>September 2026</strong><br>
-💰💰 We are grateful to the NIH NIA R01 award for funding our research! We will apply simultaneous EEG-PET-MRI to study sleep-wake physiology in aging and its relationship to Alzheimer’s disease risk factors.  <br>  	
+💰💰 We are grateful to the NIH NIA for funding our research through an R01 award! We will apply simultaneous EEG-PET-MRI to study sleep-wake physiology in aging and its relationship to Alzheimer’s disease risk factors.  <br>  	
 
 <strong>July 2026</strong><br>
 🦒🦒 Tracy has joined the lab as an undergraduate research assistant! She is a rising senior at UC Irvine, majoring in cognitive science and data science.
