@@ -4,7 +4,7 @@ featured_image: /images/demo/Logo.png
 ---
 The <strong>C</strong>omputational and <strong>A</strong>dvanced <strong>N</strong>euroimaging of brain <strong>DY</strong>namics (<strong>CANDY</strong>) Lab is directed by [Dr. Jingyuan Chen](https://www.nmr.mgh.harvard.edu/user/4258043), and affiliated with the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/) at Massachusetts General Hospital and Harvard Medical School.
 
-Our research program lies at the interface of biomedical engineering, signal processing, and neuroscience. We advance multimodal neuroimaging techniques (with an emphasis on functional PET-MRI and ultra-high-field fMRI) and computational approaches to study brain physiological dynamics, and the neurobiological consequences enacted by cognition, arousal, and disease.   
+Our research program lies at the interface of biomedical engineering, signal processing, and neuroscience. We advance multimodal dynamic functional imaging techniques (with an emphasis on functional PET-MRI and ultra-high-field fMRI) and computational approaches to study brain physiology and metabolism, and the neurobiological consequences enacted by cognition, arousal, and disease.   
 
 <br>
 
