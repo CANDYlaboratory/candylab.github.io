@@ -9,6 +9,74 @@ title: Journal Publication
 <li> 
 <div id="">
     <span class="author">
+               Du P, Coursey SE, Xu T, Jamadar S, Nolin S, Wan B, Wey HY, Polimeni JR, Price JC, Liu Q and Chen JE.
+    </span>
+    <span class="year">
+        (2026).</span>
+    <span class="title">Human cerebral cortex organization characterized by functional PET-FDG “Metabolic Connectivity”.</span>
+    <span class="periodical">
+      <em>European Journal of Nuclear Medicine and Molecular Imaging.</em>
+    </span>
+  <span class="links">
+    [<a href="https://rdcu.be/fy6Yh" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Chen JE, Rosen BR, Polimeni JR.
+    </span>
+    <span class="year">
+        (2026).</span>
+    <span class="title">BOLD fMRI reflects both vascular and metabolic signals.</span>
+    <span class="periodical">
+      <em>Nature Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://rdcu.be/fhDjG" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Wang S, Song R, Lochard LM, Fan J, Li Y, Kundert-Obando K, Martin C, Goodale SE, Pourmotabbed H, Harding JM, Lee T, Li C, Zhang S, Bayrak RG, Bolt T, Nomi JS, Uddin LQ, Chen JE, Mather M, Chang C.
+    </span>
+    <span class="year">
+        (2026).</span>
+    <span class="title">Distributed fMRI patterns coupled to low-frequency cardiorespiratory dynamics provide markers of aging.</span>
+    <span class="periodical">
+      <em>The journal of Neuroscience.</em>
+    </span>
+  <span class="links">
+    [<a href="https://www.jneurosci.org/content/46/6/e1231252026.abstract" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
+               Du P, Chen JE.
+    </span>
+    <span class="year">
+        (2025).</span>
+    <span class="title">Data-Driven Methods in Simultaneous EEG-fPET-fMRI: Opportunities and Challenges.</span>
+    <span class="periodical">
+      <em>2025 59th Asilomar Conference on Signals, Systems, and Computers.</em>
+    </span>
+  <span class="links">
+    [<a href="https://ieeexplore.ieee.org/abstract/document/11443781" target="_blank">link</a>]
+  </span>
+</div>
+</li>
+
+<li> 
+<div id="">
+    <span class="author">
                Chen JE, Lewis LD, Coursey SE, Catana C, Polimeni JR, Fan J, Droppa KS, Patel R, Wey H, Chang C, Manoach DS, Price JC, Sander CY, Rosen BR.
     </span>
     <span class="year">
