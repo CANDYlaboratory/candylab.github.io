@@ -3,6 +3,8 @@ featured_image: /images/demo/Logo.png
 ---
 
 <div class="gallery" data-columns="3">
+	<img src="/images/Abigail_group.png">
+	<img src="/images/daily_catch.png">
 	<img src="/images/OHBM2026.jpeg">
 	<img src="/images/ISMRM2026_1.jpeg">
 	<img src="/images/ISMRM2026_2.jpeg">
