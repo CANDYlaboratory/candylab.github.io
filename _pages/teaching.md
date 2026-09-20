@@ -5,7 +5,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 **HST. 583: Functional Magnetic Resonance Imaging: Data Acquisition and Analysis.**<br>
 
-This Harvard-MIT HST course is offered every two years, and the next course will be offered in the fall of 2026. 
+This Harvard-MIT HST course is offered every two years, and the current offering is fall of 2026 [[course website]](https://canvas.mit.edu/courses/40511). 
 
 **Resources of other educational lectures:**
 1. Introduction to fMRI [[Martinos Center, Why & How seminar]](https://www.youtube.com/watch?v=a2ptYq1B9EA)  
