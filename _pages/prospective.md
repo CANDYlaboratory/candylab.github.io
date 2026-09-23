@@ -4,7 +4,7 @@ title: Prospective Member 𓅸
 ---
 
 
-<strong> Postdoctoral fellows:</strong> We currently have one open postdoctoral fellow position. This fellow will apply trimodal EEG-PET-MRI to study brain physiological dynamics across the sleep-wake cycle in typical aging, and how their disruption may elevate the risk of Alzheimer's disease. See this posting for details. <br>
+<strong> Postdoctoral fellows:</strong> We currently have one open postdoctoral fellow position. This fellow will apply trimodal EEG-PET-MRI to study brain physiological dynamics across the sleep-wake cycle in typical aging, and how their disruption may elevate the risk of Alzheimer's disease. See this [posting](https://www.dropbox.com/scl/fi/3y40ybcaobj7rp7el9ijj/PostDoc_MultiModal_Ad_NIA_R01_2026.pdf?rlkey=sohs8uwrg157blv8rmx1hmxnj&dl=0) for details. <br>
 
 **Ph.D. students:** We always seek graduate students with the passion to perform research at the interface of signal processing, brain imaging, and neuroscience. While we directly recruit graduate students from the [Medical Engineering and Medical Physics (MEMP) program](https://hst.mit.edu/applying-hst/applying-medical-engineering-and-medical-physics-memp-phd-program) at the Harvard-MIT Health Sciences and Technology Institute, we are also very interested in exploring opportunities with graduate students from other universities and departments in the Boston area. If you are interested in joining our group, please send your CV and transcripts to jechen at mgh.harvard.edu. <br>
 
